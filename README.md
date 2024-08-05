@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @YASH-KOYANI
 - 👀 I’m interested in MEAN and MERN stack
-- 🌱 I’m currently learning MEAN
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning MEAN..
 - 📫 Just click on compose mail and create and send it to koyani.yash6112@gmail.com
 - 😄 Pronouns:I am Yash not no 🥱
 
